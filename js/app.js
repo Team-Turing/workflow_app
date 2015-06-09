@@ -5,5 +5,8 @@
       method: 'GET'
     }).done(function(data) {
       console.log(data);
+      data.forEach(function(object){
+        $('ol').append('<li>' + object.title + '</li>');
+      });
     });
   });
