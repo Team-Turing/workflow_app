@@ -1,3 +1,4 @@
+
   $(document).ready(function(){
     var root = 'http://jsonplaceholder.typicode.com';
     $.ajax({
