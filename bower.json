@@ -1,0 +1,16 @@
+{
+  "name": "workflow_app",
+  "version": "0.0.0",
+  "homepage": "https://github.com/Team-Turing/workflow_app",
+  "authors": [
+    "Fitfouraking <malinbking@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
